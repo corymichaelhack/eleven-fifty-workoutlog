@@ -1,3 +1,3 @@
 # eleven-fifty-workoutlog
 
-![Postman Image](http://server/images/createUser.png)
+![Postman Image](./server/images/createUser.png)
